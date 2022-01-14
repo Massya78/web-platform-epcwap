@@ -1,0 +1,21 @@
+body {
+
+  background-color: blue;
+  height: 100%;
+
+}
+header{
+  height: 5em;
+  background-color: blueviolet;
+}
+section{
+  height: 15em;
+  background-color: green;
+}
+footer{
+  height: 5em;
+  background-color: pink;
+}
+h1 {
+  text-align: center;
+}
